@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jul 11 15:21:36 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=AcousticClassification-0.1.0.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|junit-3.8.1.jar>;<jar|weka.jar>
+includes=
